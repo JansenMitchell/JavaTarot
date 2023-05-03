@@ -1,0 +1,1 @@
+A one card tarot spread implemented in Java.
